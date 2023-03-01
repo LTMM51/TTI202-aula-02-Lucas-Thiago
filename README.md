@@ -7,7 +7,7 @@ Função: Revisão de código e organização do GitHub
 RA: 22.01715-0  
 Função: Gerenciamento das tarefas
 ### Bruno Teruya
-RA: 22.01053-0
+RA: 22.01053-0  
 Função: Criação e organização do KanBan
 ### Fernando Freitas de Oliveira
 RA: 19.00468-0  
