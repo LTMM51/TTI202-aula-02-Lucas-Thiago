@@ -2,3 +2,5 @@
 ##  Membros do Grupo 
 ### Lucas Thiago Mezadri Machado
 RA: 22.00393-2
+### Gabriel Gonçalves Renaul Cunha
+RA: 22.00839-0
